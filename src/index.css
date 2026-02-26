@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* @import "tailwindcss"; */
+
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+}
+
+@layer utilities {
+  .font-poppins {
+    font-family: 'Poppins', sans-serif;
+  }
+
+  .font-fakhwang {
+    font-family: 'Fahkwang', sans-serif;
+  }
+}
