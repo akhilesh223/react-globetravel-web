@@ -1,6 +1,6 @@
 import React,{useEffect} from 'react'
-import aboutimg1 from '../assets/about1.webp'
-import aboutimg2 from '../assets/about2.webp'
+import aboutimg1 from '../assets/about1.png'
+import aboutimg2 from '../assets/about2.png'
 import{ FaGlobeAmericas} from 'react-icons/fa'
 import{ IoIosPricetag } from 'react-icons/io'
 import AOS from 'aos';

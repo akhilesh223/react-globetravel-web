@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react'
-import heroimg from '../assets/hero.webp'
+import heroimg from '../assets/hero.png'
 import AOS from 'aos';
 import 'aos/dist/aos.css'
 
@@ -15,7 +15,7 @@ function Hero() {
 
   return (
     <div
-      id='hero'
+      id='home'
       className='relative w-full min-h-screen bg-cover bg-center flex items-center justify-center'
       style={{ backgroundImage: `url(${heroimg})` }}
     >

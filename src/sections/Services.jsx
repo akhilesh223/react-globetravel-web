@@ -4,7 +4,7 @@ import { useEffect } from 'react'
 import service1 from '../assets/service1.webp'
 import service2 from '../assets/service2.webp'
 import service3 from '../assets/service3.webp'
-import service4 from '../assets/service4.webp'
+import service4 from '../assets/service4.png'
 import service5 from '../assets/service5.webp'
 import service6 from '../assets/service6.webp'
 import AOS from 'aos';

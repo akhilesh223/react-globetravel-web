@@ -11,7 +11,7 @@ function Header() {
     { name:"Home", to: "home"},
      { name:"About", to: "about"},
       { name:"Services", to: "services"},
-       { name:"Packages", to: "Packages"},
+       { name:"Packages", to: "packages"},
         { name:"Contact", to: "contact"}
   ];
 
