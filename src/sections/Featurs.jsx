@@ -13,7 +13,7 @@ function Featurs() {
             })
             },[]);
   return (
-    <div id='whyus' className='w-full lg:px-24 px-5 lg:pt-24 pb-20 pb-45 flex
+    <div id='whyus' className='w-full lg:px-24 px-5 lg:pt-24 lg:pb-[150px] pb-[150px] flex
     flex-col justify-between items-center gap-5'>
       <h1 data-aos ='zoom-in' data-aos-delay='100' className='
       lg:text-5xl text-3xl font-fakhwang font-semibold text-black

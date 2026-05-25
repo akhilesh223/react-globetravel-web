@@ -24,7 +24,7 @@ function About() {
         className ='rounded-md'alt='' />
 
         <img  data-aos="zoom-in" data-aos-delay="200" src={aboutimg2}
-        className ='rounded-md w-[40%] border-8 border-white mt-[150px]-ml-[30px]-rotate-2'alt='' />
+        className ='rounded-md w-[40%] border-8 border-white lg:mt-[150px] mt-[50px] lg:-ml-[30px] -ml-[15px] -rotate-2'alt='' />
          </div>
       <div className='flex flex-col gap-5'>
         <h1 data-aos="zoom-in" data-aos-delay="300" className='text-md  bg-gray-600'> About us</h1>

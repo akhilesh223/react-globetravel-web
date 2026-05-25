@@ -89,7 +89,7 @@ function Header() {
       {/* menu items */}
       <ul className='flex flex-col space-y-8 text-2xl text-center font-poppins'>
         {menuLinks.map((item) => (
-          <li key={item.to}><Link to={Link.to} smooth duration={500} onClick={()=> 
+          <li key={item.to}><Link to={item.to} smooth duration={500} onClick={()=> 
             setMenuOpen(false)} className='cursor-pointer hover:text-red-500
             transition'>{item.name}</Link>
           </li>
